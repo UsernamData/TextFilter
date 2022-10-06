@@ -2,6 +2,8 @@
 from __future__ import division
 __author__ = 'LiNing'
 
+#Comment by Roman Filatov, Единственный комментарий на русском
+
 import os
 import re
 import nltk
